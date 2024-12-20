@@ -49,7 +49,7 @@ public class MainTest {
 
         assertEquals(Grocery.groceryList.size(), 4);
     }
-
+    //
     @DisplayName("addItems methodu sonrasında liste sort ediliyor mu?")
     @Test
     public void testAddItemsSorted()  {
